@@ -1,4 +1,6 @@
-# Projects
-Data Science project on different dataset.
+# Water Quality Prediction
+In this project we performed EDA of water quality dataset and predict if the water is drinkable or not.
 
-This Repository contains project on different real life dataset on python or R language. This project is entirely done by me so the project may have lots pf scope of improvement.
+Python libraries like - Pandas, Numpy, Matplotlib. seaborn, sklearn and imblearn has been used here.
+
+For Classification We have used Logistic Regression, Support Vector Machine, KNN and Random Forest has been used.
